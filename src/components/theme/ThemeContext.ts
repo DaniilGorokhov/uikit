@@ -5,6 +5,7 @@ import {Theme} from './types';
 
 export interface ThemeContextProps {
     theme: Theme;
+    /** @deprecated Set theme in your app and pass it to context, instead of managing it via context methods */
     setTheme: (newTheme: Theme) => void;
 }
 
