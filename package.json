@@ -75,6 +75,7 @@
     },
     "dependencies": {
         "@gravity-ui/i18n": "^1.0.0",
+        "@gravity-ui/icons": "^2.1.0",
         "@popperjs/core": "2.11.6",
         "bem-cn-lite": "4.0.0",
         "blueimp-md5": "^2.19.0",
